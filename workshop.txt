@@ -1,0 +1,6 @@
+version=1
+id=SkillBarLvLText
+title=SkillBarLvLText
+description=SkillBarLvLText
+tags=Build 41;
+visibility=public
